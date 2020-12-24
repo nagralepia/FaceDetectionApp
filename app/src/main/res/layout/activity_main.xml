@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:paddingLeft="30dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/txtHello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="30sp"
+        android:gravity="center"/>
+
+
+
+    <TextView
+        android:id="@+id/txtHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HOme"
+        android:textSize="30sp"
+        android:layout_below="@id/txtHello"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+
+    <TextView
+        android:id="@+id/txtCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category"
+        android:textSize="30sp"
+        android:layout_below="@id/txtHome"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+
+    <TextView
+        android:id="@+id/txtProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile"
+        android:textSize="30sp"
+
+        android:layout_below="@id/txtCategory"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/txtMore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="More"
+        android:textSize="30sp"
+
+        android:layout_below="@id/txtProfile"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+
+</RelativeLayout>

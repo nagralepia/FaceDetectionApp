@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppChangeLanguage</string>
+    <string name="hello">xin chào</string>  <!--yeoboseyo-->
+    <string name="home">Trang Chủ</string>
+    <string name="category">thể loại</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="more">hơn</string>
+
+</resources>

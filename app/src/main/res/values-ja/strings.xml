@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppChangeLanguage</string>
+    <string name="hello">こんにちは</string>  <!--Kon'nichiwa-->
+    <string name="home">ホーム</string>
+    <string name="category">カテゴリー</string>
+    <string name="profile">プロフィール</string>
+    <string name="more">もっと</string>
+
+</resources>

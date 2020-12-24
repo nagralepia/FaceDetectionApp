@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppChangeLanguage</string>
+    <string name="hello">你好</string>  <!--Nǐ hǎo-->
+    <string name="home">家</string>
+    <string name="category">类别</string>
+    <string name="profile">个人资料</string>
+    <string name="more">更多</string>
+
+</resources>

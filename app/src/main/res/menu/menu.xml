@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/lang_hi"
+        android:title="Hindi"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/lang_en"
+        android:title="English"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/lang_ko"
+        android:title="Korean"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/lang_vi"
+        android:title="Vietnamese"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/lang_ch"
+        android:title="Chinese"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/lang_jn"
+        android:title="Japanese"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppChangeLanguage</string>
+    <string name="hello">नमस्कार</string>
+    <string name="home">घर</string>
+    <string name="category">वर्ग</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="more">अधिक</string>
+
+</resources>
